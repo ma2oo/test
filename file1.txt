@@ -1,1 +1,3 @@
 Some text...
+
+Adding new text
